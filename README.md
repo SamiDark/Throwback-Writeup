@@ -1,2 +1,1 @@
-# Throwback-Writeup
-This is a writeup for Throwback network in TryHackMe site.
+Throwback is an Active Directory (AD) lab that teaches the fundamentals and core concepts of attacking a Windows network. The network simulates a realistic corporate environment that has several attack vectors you would expect to find in today’s organisations.
