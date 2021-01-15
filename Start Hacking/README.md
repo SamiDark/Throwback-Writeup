@@ -1,4 +1,4 @@
-[](https://github.com/SamiDark/Throwback-Writeup/tree/main/Start%20Hacking#throwback-fw01)
+[](https://github.com/SamiDark/Throwback-Writeup/tree/main/Start%20Hacking/README.md#throwback-fw01)
 
 hdfgjdfgj
 ghdf
